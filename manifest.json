@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-modules",
+  "repo": "asimov-apple-module",
+  "versions": [
+    {
+      "commit": "0ab8888d3b30f68177ca5a7a47dff34e3bfeb41f",
+      "parsed_at": "2026-09-28T07:05:38.396698+00:00",
+      "tag": "0.0.1",
+      "filetree": "filetree/0ab8888d3b30f68177ca5a7a47dff34e3bfeb41f.nq.gz",
+      "blobs": [
+        "blob/2b0c788e2596d934456a7ce78cc4e7f3fe40e217.nq.gz",
+        "blob/21bf3a4b25c8874a1673cfafa602d027519a23dd.nq.gz",
+        "blob/ffb0a428d9ac743562cb27dcd367c66d17ab5ac1.nq.gz",
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/cf42f6893594e2f8be2b722de51123d65e4d61c4.nq.gz",
+        "blob/2756b58bec9edb2c82f87d400b36f26639d5601b.nq.gz",
+        "blob/75e3b65f99b29f48ab230e3eab3de8d0b7a9229f.nq.gz",
+        "blob/0f9313d63eaddd339a813841e540ed99130ca574.nq.gz",
+        "blob/9cb41bbd756a6a8a8b5eece06343701a4a063c6b.nq.gz",
+        "blob/f973f5cacf16b59ba4c930de206273d58d533b47.nq.gz",
+        "blob/5f5cf896c81688e4360b37f1bcda92f7bc6f7423.nq.gz",
+        "blob/775b37f2025b0b0c44365b5ed0671d9f24131855.nq.gz",
+        "blob/f99b3913a34e5e1ab42c7e031d51d59e45ffc649.nq.gz",
+        "blob/e3e57a8ce4ccbf74759a6df8fa4a3980ff1c9209.nq.gz",
+        "blob/8acdd82b765e8e0b8cd8787f7f18c7fe2ec52493.nq.gz",
+        "blob/2391f73aa051d3804285ce744f2e9a1c7e08993d.nq.gz",
+        "blob/af9908b08f4b33c32a0080af73f53bc0fa0cdce4.nq.gz",
+        "blob/aae8c665b2ea862d8c80e87294a9323592fe30b7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
