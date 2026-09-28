@@ -30,6 +30,66 @@
       ],
       "ast": [
         "aggregate/ast/0ab8888d3b30f68177ca5a7a47dff34e3bfeb41f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0ab8888d3b30f68177ca5a7a47dff34e3bfeb41f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "html2text",
+          "ecosystem": "CARGO",
+          "version": "0.16.4",
+          "githubOrg": "jugglerchris",
+          "githubRepo": "rust-html2text",
+          "githubUrl": "https://github.com/jugglerchris/rust-html2text/",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "dotenvy",
+          "ecosystem": "CARGO",
+          "version": "0.15.7",
+          "githubOrg": "allan2",
+          "githubRepo": "dotenvy",
+          "githubCommit": "e330110a7cd9064ec913e554c9fc325c9d7cdb88",
+          "githubTag": "v0.15.7",
+          "githubUrl": "https://github.com/allan2/dotenvy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs"
+        }
       ]
     }
   ],
