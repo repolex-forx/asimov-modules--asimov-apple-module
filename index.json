@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-apple-module",
+  "versions": [
+    {
+      "commit": "0ab8888d3b30f68177ca5a7a47dff34e3bfeb41f",
+      "tag": "0.0.1",
+      "parsed_at": "2026-09-28T07:10:28.474729+00:00"
+    }
+  ]
+}
